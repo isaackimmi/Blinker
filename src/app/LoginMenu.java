@@ -8,10 +8,6 @@ package app;
  * Loops continously based on user's choice 
  * 
  * @author Isaac Kim
- * @author Marley Willyoung
- * @author Matthew Davenport
- * @author Victoria Nguyen
- * @author Jahnae Reese
  *
  */
 import java.util.Scanner;
